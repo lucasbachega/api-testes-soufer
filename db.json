@@ -1,1 +1,105 @@
-
+{
+    "materiais": [
+        {
+            "id": 1,
+            "descricao": "Caneta marcadora para quadro branco, recarregável, cor preta",
+            "material": "123 11111 2458 1",
+            "quantidade": 1,
+            "unidade": "UN",
+            "contaRazao": "36210264",
+            "centroCusto": "110110180",
+            "selected": false
+        },
+        {
+            "id": 2,
+            "descricao": "Caneta marcadora para quadro branco, recarregável, cor azul",
+            "material": "456 22222 8745 2",
+            "quantidade": 2,
+            "unidade": "UN",
+            "contaRazao": "36210264",
+            "centroCusto": "110110180",
+            "selected": false
+        },
+        {
+            "id": 3,
+            "descricao": "Lápis preto, nº 2",
+            "material": "789 33333 6254 3",
+            "quantidade": 3,
+            "unidade": "UN",
+            "contaRazao": "36210264",
+            "centroCusto": "110110180",
+            "selected": false
+        },
+        {
+            "id": 4,
+            "descricao": "Papel contact, incolor, transparente, rolo",
+            "material": "101 44444 1245 4",
+            "quantidade": 4,
+            "unidade": "PC",
+            "contaRazao": "36210264",
+            "centroCusto": "110110180",
+            "selected": false
+        },
+        {
+            "id": 5,
+            "descricao": "Pasta arquivo, tipo catálogo",
+            "material": "102 55555 6985 5",
+            "quantidade": 5,
+            "unidade": "UN",
+            "contaRazao": "36210264",
+            "centroCusto": "110110180",
+            "selected": false
+        },
+        {
+            "id": 6,
+            "descricao": "Refil tinta cor azul para pincel marcador",
+            "material": "345 66666 2145 5",
+            "quantidade": 6,
+            "unidade": "PC",
+            "contaRazao": "36210264",
+            "centroCusto": "110110180",
+            "selected": false
+        },
+        {
+            "id": 7,
+            "descricao": "Papel Vergê várias cores, 120 gr pct 50 folhas",
+            "material": "165 77777 7458 6",
+            "quantidade": 7,
+            "unidade": "UN",
+            "contaRazao": "36210264",
+            "centroCusto": "110110180",
+            "selected": false
+        }
+    ],
+  
+    "lotes": [
+        {
+            "id": 1,
+            "descricao": "Refil tinta../ Papel Vergê...",
+            "data": "Quin,20 de junho às 13:23 hrs",
+            "quantidade": 2,
+            "baixado": true
+        },
+        {
+            "id": 2,
+            "descricao": "Pasta arquivo../ Papel contact...",
+            "data": "Quin,20 de junho às 13:33 hrs",
+            "quantidade": 2,
+            "baixado": true
+        },
+        {
+            "id": 3,
+            "descricao": "Papel sufite a4../ Lápis preto...",
+            "data": "Quin,20 de junho às 13:43 hrs",
+            "quantidade": 2,
+            "baixado": true
+        },
+        {
+            "id": 4,
+            "descricao": "Caneta marcadora../ Pasta contact...",
+            "data": "Quin,20 de junho às 13:53 hrs",
+            "quantidade": 2,
+            "baixado": true
+        }
+    ]
+}
