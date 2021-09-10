@@ -1,6 +1,7 @@
 {
     "materiais": {
         "100M": {
+            "id": "100M",
             "descricao": "Caneta marcadora para quadro branco, recarregável, cor preta",
             "material": "123 11111 2458 1",
             "quantidade": 1,
@@ -9,6 +10,7 @@
             "centroCusto": "110110180"
         },
         "200M": {
+            "id": "200M",
             "descricao": "Lápis preto, nº 2",
             "material": "789 33333 6254 3",
             "quantidade": 3,
@@ -17,6 +19,7 @@
             "centroCusto": "110110180"
         },
         "300M" : {
+            "id": "300M",
             "descricao": "Papel contact, incolor, transparente, rolo",
             "material": "101 44444 1245 4",
             "quantidade": 4,
@@ -25,6 +28,7 @@
             "centroCusto": "110110180"
         },
          "303M" : {
+             "id": "303M",
             "descricao": "Papel contact, incolor, transparente, rolo",
             "material": "101 44444 1245 4",
             "quantidade": 4,
@@ -34,6 +38,7 @@
         },
    
          "302M" : {
+             "id": "302M",
             "descricao": "Papel contact, incolor, transparente, rolo",
             "material": "101 44444 1245 4",
             "quantidade": 4,
@@ -43,6 +48,7 @@
         },
 
          "301M" : {
+             "id": "301M",
             "descricao": "Papel contact, incolor, transparente, rolo",
             "material": "101 44444 1245 4",
             "quantidade": 4,
