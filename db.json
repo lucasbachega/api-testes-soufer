@@ -1,63 +1,77 @@
 {
-    "materiais": {
-        "100M": {
-            "id": "100M",
+    "materiais": [
+        {
+            "id": 1,
             "descricao": "Caneta marcadora para quadro branco, recarregável, cor preta",
             "material": "123 11111 2458 1",
             "quantidade": 1,
             "unidade": "UN",
             "contaRazao": "36210264",
-            "centroCusto": "110110180"
+            "centroCusto": "110110180",
+            "selected": false
         },
-        "200M": {
-            "id": "200M",
+        {
+            "id": 2,
+            "descricao": "Caneta marcadora para quadro branco, recarregável, cor azul",
+            "material": "456 22222 8745 2",
+            "quantidade": 2,
+            "unidade": "UN",
+            "contaRazao": "36210264",
+            "centroCusto": "110110180",
+            "selected": false
+        },
+        {
+            "id": 3,
             "descricao": "Lápis preto, nº 2",
             "material": "789 33333 6254 3",
             "quantidade": 3,
             "unidade": "UN",
             "contaRazao": "36210264",
-            "centroCusto": "110110180"
+            "centroCusto": "110110180",
+            "selected": false
         },
-        "300M" : {
-            "id": "300M",
+        {
+            "id": 4,
             "descricao": "Papel contact, incolor, transparente, rolo",
             "material": "101 44444 1245 4",
             "quantidade": 4,
             "unidade": "PC",
             "contaRazao": "36210264",
-            "centroCusto": "110110180"
+            "centroCusto": "110110180",
+            "selected": false
         },
-         "303M" : {
-             "id": "303M",
-            "descricao": "Papel contact, incolor, transparente, rolo",
-            "material": "101 44444 1245 4",
-            "quantidade": 4,
+        {
+            "id": 5,
+            "descricao": "Pasta arquivo, tipo catálogo",
+            "material": "102 55555 6985 5",
+            "quantidade": 5,
+            "unidade": "UN",
+            "contaRazao": "36210264",
+            "centroCusto": "110110180",
+            "selected": false
+        },
+        {
+            "id": 6,
+            "descricao": "Refil tinta cor azul para pincel marcador",
+            "material": "345 66666 2145 5",
+            "quantidade": 6,
             "unidade": "PC",
             "contaRazao": "36210264",
-            "centroCusto": "110110180"
+            "centroCusto": "110110180",
+            "selected": false
         },
-   
-         "302M" : {
-             "id": "302M",
-            "descricao": "Papel contact, incolor, transparente, rolo",
-            "material": "101 44444 1245 4",
-            "quantidade": 4,
-            "unidade": "PC",
+        {
+            "id": 7,
+            "descricao": "Papel Vergê várias cores, 120 gr pct 50 folhas",
+            "material": "165 77777 7458 6",
+            "quantidade": 7,
+            "unidade": "UN",
             "contaRazao": "36210264",
-            "centroCusto": "110110180"
-        },
-
-         "301M" : {
-             "id": "301M",
-            "descricao": "Papel contact, incolor, transparente, rolo",
-            "material": "101 44444 1245 4",
-            "quantidade": 4,
-            "unidade": "PC",
-            "contaRazao": "36210264",
-            "centroCusto": "110110180"
+            "centroCusto": "110110180",
+            "selected": false
         }
-    },
-  
+    ],
+
     "lotes": [
         {
             "id": 1,
