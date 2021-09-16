@@ -76,58 +76,6 @@
             "id": 1,
             "descricao": "Caneta marcadora../ Carbono azul../ Lâmina larga..",
             "data": "Quin,20 de junho às 13:23 hrs",
-            "materiais": [
-                {
-                    "id": 324,
-                    "descricao": "Lâmina larga para estilete estojo com 10 unidades",
-                    "material": "789 33333 6254 3",
-                    "quantidade": 3,
-                    "unidade": "PC",
-                    "contaRazao": "36210264",
-                    "centroCusto": "110110180",
-                    "selected": false
-                },
-                {
-                    "id": 320,
-                    "descricao": "Estilete com lâmina larga",
-                    "material": "101 44444 1245 4",
-                    "quantidade": 4,
-                    "unidade": "BL",
-                    "contaRazao": "36210264",
-                    "centroCusto": "110110180",
-                    "selected": false
-                },
-                {
-                    "id": 5,
-                    "descricao": "Elástico nº 18 látex caixa com 100g",
-                    "material": "102 55555 6985 5",
-                    "quantidade": 5,
-                    "unidade": "UN",
-                    "contaRazao": "36210264",
-                    "centroCusto": "110110180",
-                    "selected": false
-                },
-                {
-                    "id": 265,
-                    "descricao": "Refil tinta cor azul para pincel marcador",
-                    "material": "345 66666 2145 5",
-                    "quantidade": 6,
-                    "unidade": "PC",
-                    "contaRazao": "36210264",
-                    "centroCusto": "110110180",
-                    "selected": false
-                },
-                {
-                    "id": 3225,
-                    "descricao": "Borracha Branca/ Grande",
-                    "material": "345 66666 2145 5",
-                    "quantidade": 6,
-                    "unidade": "PC",
-                    "contaRazao": "36210264",
-                    "centroCusto": "110110180",
-                    "selected": false
-                }
-            ],
             "quantidade": 5,
             "baixado": true,
             "error": false,
