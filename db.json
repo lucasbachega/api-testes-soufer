@@ -78,26 +78,6 @@
             "data": "Quin,20 de junho às 13:23 hrs",
             "materiais": [
                 {
-                    "id": 12,
-                    "descricao": "Caneta marcadora para quadro branco, recarregável, cor preta",
-                    "material": "123 11111 2458 1",
-                    "quantidade": 1,
-                    "unidade": "UN",
-                    "contaRazao": "36210264",
-                    "centroCusto": "110110180",
-                    "selected": false
-                },
-                {
-                    "id": 321,
-                    "descricao": "Carbono azul para lápis 22 x 33cm caixa com 100 fls.",
-                    "material": "456 22222 8745 2",
-                    "quantidade": 2,
-                    "unidade": "UN",
-                    "contaRazao": "36210264",
-                    "centroCusto": "110110180",
-                    "selected": false
-                },
-                {
                     "id": 324,
                     "descricao": "Lâmina larga para estilete estojo com 10 unidades",
                     "material": "789 33333 6254 3",
@@ -148,7 +128,7 @@
                     "selected": false
                 }
             ],
-            "quantidade": 7,
+            "quantidade": 5,
             "baixado": true,
             "error": false,
             "errorMsg": ""
@@ -268,19 +248,9 @@
                     "contaRazao": "36210264",
                     "centroCusto": "110110180",
                     "selected": false
-                },
-                {
-                    "id": 9843,
-                    "descricao": "Refil tinta cor azul para pincel marcador",
-                    "material": "345 66666 2145 5",
-                    "quantidade": 6,
-                    "unidade": "PC",
-                    "contaRazao": "36210264",
-                    "centroCusto": "110110180",
-                    "selected": false
                 }
             ],
-            "quantidade": 6,
+            "quantidade": 5,
             "baixado": true,
             "error": false,
             "errorMsg": ""
