@@ -85,7 +85,7 @@
                     "unidade": "UN",
                     "contaRazao": "36210264",
                     "centroCusto": "110110180",
-                    "selected": false
+                    "baixado": true
                 },
                 {
                     "id": 126,
@@ -95,7 +95,7 @@
                     "unidade": "UN",
                     "contaRazao": "36210264",
                     "centroCusto": "110110180",
-                    "selected": false
+                    "baixado": false
                 },
                 {
                     "id": 456,
@@ -105,7 +105,7 @@
                     "unidade": "UN",
                     "contaRazao": "36210264",
                     "centroCusto": "110110180",
-                    "selected": false
+                    "baixado": true
                 },
                 {
                     "id": 765,
@@ -115,7 +115,7 @@
                     "unidade": "PC",
                     "contaRazao": "36210264",
                     "centroCusto": "110110180",
-                    "selected": false
+                    "baixado": true
                 },
                 {
                     "id": 2039,
@@ -125,7 +125,7 @@
                     "unidade": "UN",
                     "contaRazao": "36210264",
                     "centroCusto": "110110180",
-                    "selected": false
+                    "baixado": true
                 }
             ],
             "quantidade": 5,
@@ -146,7 +146,7 @@
                     "unidade": "UN",
                     "contaRazao": "36210264",
                     "centroCusto": "110110180",
-                    "selected": false
+                    "baixado": true
                 },
                 {
                     "id": 3214,
@@ -156,7 +156,7 @@
                     "unidade": "FR",
                     "contaRazao": "36210264",
                     "centroCusto": "110110180",
-                    "selected": false
+                    "baixado": true
                 },
                 {
                     "id": 3213,
@@ -166,7 +166,7 @@
                     "unidade": "FD",
                     "contaRazao": "36210264",
                     "centroCusto": "110110180",
-                    "selected": false
+                    "baixado": true
                 },
                 {
                     "id": 7546,
@@ -176,7 +176,7 @@
                     "unidade": "RL",
                     "contaRazao": "36210264",
                     "centroCusto": "110110180",
-                    "selected": false
+                    "baixado": true
                 },
                 {
                     "id": 44328,
@@ -186,7 +186,7 @@
                     "unidade": "UN",
                     "contaRazao": "36210264",
                     "centroCusto": "110110180",
-                    "selected": false
+                    "baixado": false
                 }
             ],
             "quantidade": 5,
@@ -207,7 +207,7 @@
                     "unidade": "PC",
                     "contaRazao": "36210264",
                     "centroCusto": "110110180",
-                    "selected": false
+                    "baixado":true
                 },
                 {
                     "id": 76565,
@@ -217,7 +217,7 @@
                     "unidade": "UN",
                     "contaRazao": "36210264",
                     "centroCusto": "110110180",
-                    "selected": false
+                    "baixado":true
                 },
                 {
                     "id": 65463,
@@ -227,7 +227,7 @@
                     "unidade": "PC",
                     "contaRazao": "36210264",
                     "centroCusto": "110110180",
-                    "selected": false
+                    "baixado":true
                 },
                 {
                     "id": 65464,
@@ -237,7 +237,7 @@
                     "unidade": "UN",
                     "contaRazao": "36210264",
                     "centroCusto": "110110180",
-                    "selected": false
+                    "baixado":true
                 }
             ],
             "quantidade": 4,
