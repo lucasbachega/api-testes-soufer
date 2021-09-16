@@ -12,7 +12,7 @@
         },
         {
             "id": 2,
-            "descricao": "Caneta marcadora para quadro branco, recarregável, cor azul",
+            "descricao": "Toner para impressora Brother DCP7020 e fax Intellifax 2820",
             "material": "456 22222 8745 2",
             "quantidade": 2,
             "unidade": "UN",
@@ -25,7 +25,7 @@
             "descricao": "Lápis preto, nº 2",
             "material": "789 33333 6254 3",
             "quantidade": 3,
-            "unidade": "UN",
+            "unidade": "PC",
             "contaRazao": "36210264",
             "centroCusto": "110110180",
             "selected": false
@@ -74,7 +74,7 @@
     "lotes": [
         {
             "id": 1,
-            "descricao": "Refil tinta../ Papel Vergê...",
+            "descricao": "Caneta marcadora../ Carbono azul../ Lâmina larga..",
             "data": "Quin,20 de junho às 13:23 hrs",
             "materiais": [
                 {
@@ -89,7 +89,7 @@
                 },
                 {
                     "id": 321,
-                    "descricao": "Caneta marcadora para quadro branco, recarregável, cor azul",
+                    "descricao": "Carbono azul para lápis 22 x 33cm caixa com 100 fls.",
                     "material": "456 22222 8745 2",
                     "quantidade": 2,
                     "unidade": "UN",
@@ -99,27 +99,27 @@
                 },
                 {
                     "id": 324,
-                    "descricao": "Lápis preto, nº 2",
+                    "descricao": "Lâmina larga para estilete estojo com 10 unidades",
                     "material": "789 33333 6254 3",
                     "quantidade": 3,
-                    "unidade": "UN",
-                    "contaRazao": "36210264",
-                    "centroCusto": "110110180",
-                    "selected": false
-                },
-                {
-                    "id": 320,
-                    "descricao": "Papel contact, incolor, transparente, rolo",
-                    "material": "101 44444 1245 4",
-                    "quantidade": 4,
                     "unidade": "PC",
                     "contaRazao": "36210264",
                     "centroCusto": "110110180",
                     "selected": false
                 },
                 {
+                    "id": 320,
+                    "descricao": "Estilete com lâmina larga",
+                    "material": "101 44444 1245 4",
+                    "quantidade": 4,
+                    "unidade": "BL",
+                    "contaRazao": "36210264",
+                    "centroCusto": "110110180",
+                    "selected": false
+                },
+                {
                     "id": 5,
-                    "descricao": "Pasta arquivo, tipo catálogo",
+                    "descricao": "Elástico nº 18 látex caixa com 100g",
                     "material": "102 55555 6985 5",
                     "quantidade": 5,
                     "unidade": "UN",
@@ -155,12 +155,12 @@
         },
         {
             "id": 2,
-            "descricao": "Pasta arquivo../ Papel contact...",
+            "descricao": "Papel contact../ Toner para i../ Fita para imp..",
             "data": "Quin,20 de junho às 13:33 hrs",
             "materiais": [
                 {
                     "id": 785,
-                    "descricao": "Caneta marcadora para quadro branco, recarregável, cor preta",
+                    "descricao": "Papel contact, incolor, transparente, rolo",
                     "material": "123 11111 2458 1",
                     "quantidade": 1,
                     "unidade": "UN",
@@ -170,7 +170,7 @@
                 },
                 {
                     "id": 126,
-                    "descricao": "Caneta marcadora para quadro branco, recarregável, cor azul",
+                    "descricao": "Toner para impressora HP 1300",
                     "material": "456 22222 8745 2",
                     "quantidade": 2,
                     "unidade": "UN",
@@ -180,7 +180,7 @@
                 },
                 {
                     "id": 456,
-                    "descricao": "Lápis preto, nº 2",
+                    "descricao": "Fita para impressora Epson FX1170",
                     "material": "789 33333 6254 3",
                     "quantidade": 3,
                     "unidade": "UN",
@@ -190,7 +190,7 @@
                 },
                 {
                     "id": 765,
-                    "descricao": "Papel contact, incolor, transparente, rolo",
+                    "descricao": "Etiqueta 3 col. 107 x 23,4mm em formulário caixa c/ 18.000",
                     "material": "101 44444 1245 4",
                     "quantidade": 4,
                     "unidade": "PC",
@@ -200,7 +200,7 @@
                 },
                 {
                     "id": 2039,
-                    "descricao": "Pasta arquivo, tipo catálogo",
+                    "descricao": "Capa de papelão para processo SF qualquer natureza",
                     "material": "102 55555 6985 5",
                     "quantidade": 5,
                     "unidade": "UN",
@@ -216,12 +216,12 @@
         },
         {
             "id": 3,
-            "descricao": "Papel sufite a4../ Lápis preto...",
+            "descricao": "Esponja dupla../ Limpador instantâneo../ Papel toalha..",
             "data": "Quin,20 de junho às 13:43 hrs",
             "materiais": [
                 {
                     "id": 4323,
-                    "descricao": "Caneta marcadora para quadro branco, recarregável, cor preta",
+                    "descricao": "Esponja dupla face para limpeza",
                     "material": "123 11111 2458 1",
                     "quantidade": 1,
                     "unidade": "UN",
@@ -231,30 +231,30 @@
                 },
                 {
                     "id": 3214,
-                    "descricao": "Caneta marcadora para quadro branco, recarregável, cor azul",
+                    "descricao": "Limpador instantâneo multi-uso frasco com 500m",
                     "material": "456 22222 8745 2",
                     "quantidade": 2,
-                    "unidade": "UN",
+                    "unidade": "FR",
                     "contaRazao": "36210264",
                     "centroCusto": "110110180",
                     "selected": false
                 },
                 {
                     "id": 3213,
-                    "descricao": "Lápis preto, nº 2",
+                    "descricao": "Papel toalha branco tipo americano 3 dobras 26 x 23cm",
                     "material": "789 33333 6254 3",
                     "quantidade": 3,
-                    "unidade": "UN",
+                    "unidade": "FD",
                     "contaRazao": "36210264",
                     "centroCusto": "110110180",
                     "selected": false
                 },
                 {
                     "id": 7546,
-                    "descricao": "Papel contact, incolor, transparente, rolo",
+                    "descricao": "Fio 6mm cabinho flexível anti-chama - rolo com 100m",
                     "material": "101 44444 1245 4",
                     "quantidade": 4,
-                    "unidade": "PC",
+                    "unidade": "RL",
                     "contaRazao": "36210264",
                     "centroCusto": "110110180",
                     "selected": false
@@ -287,15 +287,15 @@
         },
         {
             "id": 4,
-            "descricao": "Caneta marcadora../ Pasta contact...",
+            "descricao": "Parafuso auto-ata../ Caneta marcadora../ T de PVC para cola..",
             "data": "Quin,20 de junho às 13:53 hrs",
             "materiais": [
                 {
                     "id": 7677,
-                    "descricao": "Caneta marcadora para quadro branco, recarregável, cor preta",
+                    "descricao": "Parafuso auto-atarrachante cabeça chata 5,5 x 50mm cx c/100",
                     "material": "123 11111 2458 1",
                     "quantidade": 1,
-                    "unidade": "UN",
+                    "unidade": "PC",
                     "contaRazao": "36210264",
                     "centroCusto": "110110180",
                     "selected": false
@@ -312,20 +312,20 @@
                 },
                 {
                     "id": 65463,
-                    "descricao": "Lápis preto, nº 2",
+                    "descricao": "T de PVC para cola e rosca para cano de 3/4 cor marrom",
                     "material": "789 33333 6254 3",
                     "quantidade": 3,
-                    "unidade": "UN",
+                    "unidade": "PC",
                     "contaRazao": "36210264",
                     "centroCusto": "110110180",
                     "selected": false
                 },
                 {
                     "id": 65464,
-                    "descricao": "Papel contact, incolor, transparente, rolo",
+                    "descricao": "Vedante de couro para torneira 1/2",
                     "material": "101 44444 1245 4",
                     "quantidade": 4,
-                    "unidade": "PC",
+                    "unidade": "UN",
                     "contaRazao": "36210264",
                     "centroCusto": "110110180",
                     "selected": false
