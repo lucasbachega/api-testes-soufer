@@ -74,15 +74,6 @@
     "lotes": [
         {
             "id": 1,
-            "descricao": "Caneta marcadora../ Carbono azul../ Lâmina larga..",
-            "data": "Quin,20 de junho às 13:23 hrs",
-            "quantidade": 5,
-            "baixado": true,
-            "error": false,
-            "errorMsg": ""
-        },
-        {
-            "id": 2,
             "descricao": "Papel contact../ Toner para i../ Fita para imp..",
             "data": "Quin,20 de junho às 13:33 hrs",
             "materiais": [
@@ -143,7 +134,7 @@
             "errorMsg": ""
         },
         {
-            "id": 3,
+            "id": 2,
             "descricao": "Esponja dupla../ Limpador instantâneo../ Papel toalha..",
             "data": "Quin,20 de junho às 13:43 hrs",
             "materiais": [
@@ -204,7 +195,7 @@
             "errorMsg": ""
         },
         {
-            "id": 4,
+            "id": 3,
             "descricao": "Parafuso auto-ata../ Caneta marcadora../ T de PVC para cola..",
             "data": "Quin,20 de junho às 13:53 hrs",
             "materiais": [
