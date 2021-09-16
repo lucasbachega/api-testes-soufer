@@ -130,7 +130,7 @@
             ],
             "quantidade": 5,
             "baixado": true,
-            "error": false,
+            "error": true,
             "errorMsg": ""
         },
         {
@@ -191,7 +191,7 @@
             ],
             "quantidade": 5,
             "baixado": true,
-            "error": false,
+            "error": true,
             "errorMsg": ""
         },
         {
@@ -242,8 +242,8 @@
             ],
             "quantidade": 4,
             "baixado": true,
-            "error": true,
-            "errorMsg": "Mensagem de erro do servidor"
+            "error": false,
+            "errorMsg": ""
         }
     ]
 }
